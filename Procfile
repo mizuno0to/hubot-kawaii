@@ -1,1 +1,1 @@
-web: bin/hubot -a twitter -n mizuno0to
+web: bin/hubot --adapter twitter --name myhubot
